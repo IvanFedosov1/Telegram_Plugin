@@ -3,7 +3,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 /**
- * Установитm процессор сообщений Telegram.
+ * Установим процессор сообщений Telegram.
  */
 function xmldb_message_telegram_install() {
     global $DB;
